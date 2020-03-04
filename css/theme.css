@@ -4355,6 +4355,7 @@ textarea.form-control {
 /* line 122, ../sass/theme/gui/_carousel.scss */
 .multi-slides {
   margin-top: 25px;
+    margin-bottom: 25px;
 }
 /* line 124, ../sass/theme/gui/_carousel.scss */
 .multi-slides .owl-controls {
@@ -5531,7 +5532,7 @@ textarea.form-control {
 	background-color: #eeeadf;
 	text-align: center;
 	padding: 15px;	 
-	height: 254px;
+	 
 }
 .thumb-item p {
 	font-size: 12px;
@@ -5640,7 +5641,7 @@ textarea.form-control {
 
 /* line 76, ../sass/theme/gui/_products.scss */
 .thumb-item-img {
-	margin-bottom: 17px;
+	 
 	overflow: hidden;
 	position: relative;
 }
@@ -7971,7 +7972,7 @@ iframe {
 	margin-top: 00px;
 	margin-bottom: 0px;
 	padding: 0px;
-	background-color:#dfdfdf;
+	background-color:#f59211;
 }
 .form-trans-c {
 	border-top-style: none;
@@ -8049,12 +8050,12 @@ a {
 	 
 }
 .event-text-h {
-	font-size: 22px;
+	font-size: 17px;
 	line-height: 39px;
 	height: 39px;
 	color: #333;
 	margin: 0px;
-	padding-left: 70px;
+	padding-left: 15px;
 	font-weight: 500;
 }
 .event-text-h1 {
@@ -8067,7 +8068,7 @@ a {
 	font-weight: 500;
 }
 .icon-heading-1 {
-	background-image: url(../images/icon-b.png);
+	 
 	background-repeat: no-repeat;
 }
 .lefi-vedio-sp1 {
